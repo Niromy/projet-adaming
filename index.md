@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-Voici la page de [notre projet] (https://niromy.github.io/projet-adaming/page-pres.component.html)
+Voici la page de [notre projet](https://niromy.github.io/projet-adaming/page-pres.component.html)
 
-Voici la page de [notre équipe] (https://niromy.github.io/projet-adaming/page-profil.component.html)
+Voici la page de [notre équipe](https://niromy.github.io/projet-adaming/page-profil.component.html)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
