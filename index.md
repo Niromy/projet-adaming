@@ -1,9 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Niromy/projet-adaming/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Voici la page de [notre projet] (https://niromy.github.io/projet-adaming/page-pres.component.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Voici la page de [notre équipe] (https://niromy.github.io/projet-adaming/page-profil.component.html)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
